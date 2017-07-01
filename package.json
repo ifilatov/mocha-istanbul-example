@@ -1,0 +1,17 @@
+{
+  "name": "interview-tests",
+  "version": "1.0.0",
+  "author": "Ivan Filatov",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "istanbul cover _mocha"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
+  },
+  "dependencies": {}
+}
